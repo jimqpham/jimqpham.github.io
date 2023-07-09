@@ -1,0 +1,14 @@
+{
+	"name": "jimqpham.github.io",
+	"version": "1.0.0",
+	"description": "Jim's personal portfolio",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"author": "Jim Pham",
+	"license": "ISC",
+	"dependencies": {
+		"@jimqpham/killer-sudoku-angular": "latest"
+	}
+}
